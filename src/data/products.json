@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "TV",
+        "price": 20000,
+        "image": "https://media.istockphoto.com/id/1408420501/photo/stylish-loft-apartment-interior-with-online-fitness-application-playing-on-smart-tv-set-empty.webp?b=1&s=612x612&w=0&k=20&c=eTaZjcbep_vgbpI0zEhH0kZ7b2DXhq1cIHmwJvjHZRU="
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "price": 90000,
+        "image": "https://media.istockphoto.com/id/1252680892/photo/internet-banking-unrecognizable-black-man-transferring-money-online-on-laptop-in-cafe.webp?b=1&s=612x612&w=0&k=20&c=QnMvO3YzhP51FslzCEDM5f_aD_05Y7btvNbwpkCvyt8="
+    },
+    {
+        "id": 3,
+        "name": "Chaire",
+        "price": 30000,
+        "image": "https://media.istockphoto.com/id/1735162881/photo/indian-latin-female-sitting-on-bean-bag-pointing-towards-the-empty-space-advertising-concept.webp?b=1&s=612x612&w=0&k=20&c=sCmBIMGVI3bfNewMVXr0cljyZ32C0x_lDZPzbUCRW7M="
+    },
+    {
+        "id": 4,
+        "name": "Washing Machine",
+        "price": 40000,
+        "image": "https://media.istockphoto.com/id/1137138120/photo/photo-of-white-washing-machine-with-soft-and-fresh-bright-towels-on-top-standing-isolated.webp?b=1&s=612x612&w=0&k=20&c=qa-hAr84U6eMK8Yb2yW7Hv9FORyyd3p5prLEl5d8jmo="
+    },
+    {
+        "id": 5,
+        "name": "Mobile",
+        "price": 60000,
+        "image": "https://media.istockphoto.com/id/1207560786/photo/custom-phone-skin-flatlay-with-different-background-colour.webp?b=1&s=612x612&w=0&k=20&c=xMMyn9ep72VptAEVJN2q5bGCGPpAW3G1OJuZdV1nnfY="
+    },
+    {
+        "id": 6,
+        "name": "Bag",
+        "price": 1000,
+        "image": "https://media.istockphoto.com/id/1886884898/photo/yellow-backpack-suspended-in-air-on-blue-background.webp?b=1&s=612x612&w=0&k=20&c=f0gtAiT2I84vO3A-C3Kk7KDBfcmFZREGfqus5-O-fYg="
+    }
+]
